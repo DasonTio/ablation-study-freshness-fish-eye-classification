@@ -1,6 +1,22 @@
 # Current Project State
 
-## ⟦HANDOFF SNAPSHOT — read this first (updated 2026-06-06 ~18:25 WIB)⟧
+## ⟦HANDOFF SNAPSHOT — read this first (updated 2026-06-06 ~21:30 WIB)⟧
+
+> **2026-06-06 late update — paper holes closed + repo restructured for GitHub.**
+> Three reviewer-facing gaps fixed in `paper.docx` via the builder (no new training;
+> a fair Swin-Tiny ±CLAHE run does not fit the publish deadline and a single-seed run
+> would reintroduce the single-run weakness): (1) CLAHE-never-on-Swin scope now closed
+> by model-independent signal degradation + architecture-independent no-benefit, with
+> the limit stated; (2) rho=0.245 framed as modest, leaning on 8/8 sign consistency +
+> classifier gap not the large-n p-value; (3) 88.53 (5-seed 64/16/20) vs 88.61 (3-seed
+> 60/20/20) reconciled. Ordinal section demoted to a secondary capability check.
+> Repo restructured: `main` is now a clean 1-commit history (215 files, 51 MB, no
+> >100 MB blobs, GitHub-pushable); full prior state incl. all checkpoints preserved on
+> branch `archive/full-results` (commit 23ea497). Heavy assets (data/FFE, checkpoints,
+> logs) gitignored and still on disk. **Push only `main` (`git push -u origin main`),
+> NOT `--all`** — archive branch carries 189 MB blobs GitHub will reject. Remaining
+> pre-submission TODO unchanged: supervisor metadata, Word visual pass, Turnitin.
+
 
 **One-line state:** All core CNN experiments are DONE, and the JuTISI paper has been
 reframed final-model-first. The recommended model is plain GAP Swin-Tiny with a 24-class

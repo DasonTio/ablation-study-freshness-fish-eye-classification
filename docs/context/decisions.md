@@ -670,3 +670,21 @@
   `results/figures/jutisi/figure4_final_model_context.png`,
   `results/figures/jutisi/figure8_stage_xai_3x3.png`,
   `docs/context/current.md`
+
+## 2026-06-06 - close three paper holes (no new training) and restructure repo for GitHub
+- Validated the JuTISI manuscript as a rigorous Sinta 3 (not Sinta 2) paper: contribution
+  is statistical rigor + a global-first-order characterization, not methodological novelty.
+- Decided AGAINST a GPU run before the publish deadline. A fair Swin-Tiny ±CLAHE closure
+  needs 5 matched seeds (~4h on 1x 5060 Ti, ~2h on 2x + setup) and does not fit the 3h
+  window; a single-seed/reduced-epoch run would reintroduce the exact single-run weakness
+  the paper criticizes and create a 3rd inconsistent Swin number. Closed the hole in prose
+  via model-independent evidence instead.
+- Edited prose in scripts/build_jutisi_final_paper.py and rebuilt paper.docx: (1) CLAHE
+  scope paragraph in section C; (2) effect-size honesty for rho=0.245 in section B;
+  (3) 88.53 vs 88.61 protocol reconciliation in section E; (4) ordinal section opens as a
+  secondary capability check. Abstract 228 words; refs 10/19 journals = 52.6%.
+- Restructured repo: created archive/full-results (= old main 23ea497, full history +
+  checkpoints), then put a fresh 1-commit clean history on main (215 files, 51 MB).
+  Deleted vast.ai scaffolding, watchers, exp_* dead-ends, old paper builder, deprecated
+  docs/working copies, and the template .doc. Gitignored data/, checkpoints, logs, and
+  local-only reference PDFs/tooling. main is GitHub-pushable; do not push --all.
