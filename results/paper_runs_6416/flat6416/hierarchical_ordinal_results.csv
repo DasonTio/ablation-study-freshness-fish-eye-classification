@@ -1,0 +1,6 @@
+backbone,seed,best_val_class_acc,test_class_acc,test_class_precision,test_class_recall,test_class_f1,test_freshness_acc,test_freshness_mae,test_freshness_adjacent_errors,test_freshness_severe_errors,hybrid_extratrees,hybrid_lgbm
+swin_tiny_flat_6416,42,89.03,87.37,87.49,87.2,87.09,35.38,0.7861,445,123,87.83,88.05
+swin_tiny_flat_6416,123,88.18,85.78,85.16,84.0,83.95,31.06,0.8783,440,166,85.89,85.78
+swin_tiny_flat_6416,2024,88.6,88.96,88.71,88.63,88.35,31.63,0.8191,482,119,88.85,88.51
+swin_tiny_flat_6416,7,88.89,89.87,90.12,89.6,89.5,21.84,0.8885,593,94,89.87,90.22
+swin_tiny_flat_6416,2025,88.32,88.74,89.23,88.22,88.36,29.58,0.8077,528,91,88.4,89.08

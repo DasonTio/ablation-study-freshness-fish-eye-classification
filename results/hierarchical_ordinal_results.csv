@@ -1,0 +1,4 @@
+backbone,seed,best_val_class_acc,test_class_acc,test_class_precision,test_class_recall,test_class_f1,test_freshness_acc,test_freshness_mae,test_freshness_adjacent_errors,test_freshness_severe_errors,hybrid_extratrees,hybrid_lgbm
+swin_tiny_hier_ord,42,88.27,89.41,89.53,88.97,88.94,89.52,0.1071,90,2,89.98,89.41
+swin_tiny_hier_ord,123,88.27,88.5,88.59,88.27,88.19,88.04,0.1264,99,6,88.72,88.15
+swin_tiny_hier_ord,2024,87.47,87.47,87.71,87.17,87.16,88.15,0.1241,99,5,88.38,87.93

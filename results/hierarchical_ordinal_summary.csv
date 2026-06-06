@@ -1,0 +1,2 @@
+backbone,n,class_acc_mean,class_acc_std,freshness_acc_mean,freshness_mae_mean,best_seed,best_val_class_acc,hybrid_et_max,hybrid_lgbm_max
+swin_tiny_hier_ord,3,88.46,0.97,88.57,0.1192,42,88.27,89.98,89.41

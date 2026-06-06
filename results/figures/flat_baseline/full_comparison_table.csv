@@ -1,0 +1,6 @@
+Model,Accuracy (%)
+"ResNet50 [Prasetyo 2022, benchmark]",78.82
+"Swin-T + ExtraTrees + LGBM [Hoang 2025, SOTA]",85.99
+Flat Swin-Tiny 24-class CE [ours],87.51 ± 1.10
+"Hierarchical Ordinal Swin-Tiny [ours, neural]",88.46 ± 0.97
+"Hierarchical Ordinal + ExtraTrees [ours, best]",89.98

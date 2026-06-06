@@ -1,0 +1,7 @@
+config,backbone,clahe,params_M,n_seeds,acc_mean,acc_std,prec_mean,prec_std,rec_mean,rec_std,f1_mean,f1_std
+resnet50_no_clahe,resnet50,False,23.77,3,80.6,1.17,78.4,0.47,77.96,0.72,77.75,0.53
+resnet50_clahe,resnet50,True,23.77,3,77.26,2.39,75.69,2.39,74.55,2.54,74.52,2.5
+v2s_no_clahe,efficientnetv2s,False,20.34,3,78.74,1.15,76.93,1.43,76.22,1.28,75.9,1.33
+v2s_clahe,efficientnetv2s,True,20.34,3,78.7,1.08,76.47,0.99,76.13,1.39,75.62,1.53
+convnext_no_clahe,convnext_small,False,49.56,3,80.71,2.57,77.76,3.07,77.35,2.92,77.23,2.95
+convnext_clahe,convnext_small,True,49.56,3,79.73,1.02,77.22,0.74,76.66,0.72,76.54,0.66

@@ -1,0 +1,5 @@
+experiment,clahe,backbone,params_M,accuracy,precision,recall,f1
+exp_A_resnet50_no_clahe,False,resnet50,23.77,77.45,75.77,74.46,74.44
+exp_B_resnet50_clahe,True,resnet50,23.77,73.01,71.91,69.79,69.91
+exp_C_v2s_no_clahe,False,efficientnetv2s,20.34,65.95,68.7,61.98,60.17
+exp_D_v2s_clahe_proposed,True,efficientnetv2s,20.34,67.08,66.93,63.17,61.92

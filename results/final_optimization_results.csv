@@ -1,0 +1,5 @@
+experiment,clahe,backbone,params_M,best_val_acc,accuracy,precision,recall,f1
+final_A_resnet50_no_clahe,False,resnet50,23.77,80.98,78.02,78.39,77.03,76.52
+final_B_resnet50_clahe,True,resnet50,23.77,78.93,79.38,78.31,77.32,77.27
+final_C_v2s_no_clahe,False,efficientnetv2s,20.34,81.78,78.82,77.28,76.46,76.36
+final_D_v2s_clahe_proposed,True,efficientnetv2s,20.34,79.95,78.13,77.72,77.29,76.39

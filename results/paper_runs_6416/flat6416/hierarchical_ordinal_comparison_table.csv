@@ -1,0 +1,7 @@
+Model,Accuracy (%)
+"ResNet50 [Prasetyo 2022, benchmark]",78.82
+"Swin-T + ExtraTrees + LGBM [Hoang 2025, SOTA]",85.99
+swin_tiny_flat_6416 24-class (ours),88.14 +/- 1.60
+swin_tiny_flat_6416 freshness-only (ours),29.90 +/- 4.99
+swin_tiny_flat_6416 + ExtraTrees hybrid (ours),89.87
+swin_tiny_flat_6416 + LightGBM hybrid (ours),90.22

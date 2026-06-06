@@ -1,0 +1,33 @@
+{
+  "protocol": "60/20/20 split varied per seed, optimized recipe",
+  "n_seeds": 3,
+  "per_backbone": {
+    "resnet50": {
+      "no_clahe_mean": 80.6,
+      "clahe_mean": 77.26,
+      "delta_pp": 3.34,
+      "t": 3.144,
+      "p_2tailed": 0.088
+    },
+    "efficientnetv2s": {
+      "no_clahe_mean": 78.74,
+      "clahe_mean": 78.7,
+      "delta_pp": 0.04,
+      "t": 0.118,
+      "p_2tailed": 0.9166
+    },
+    "convnext_small": {
+      "no_clahe_mean": 80.71,
+      "clahe_mean": 79.73,
+      "delta_pp": 0.99,
+      "t": 1.049,
+      "p_2tailed": 0.4043
+    }
+  },
+  "pooled_9pairs": {
+    "delta_pp": 1.46,
+    "t": 2.253,
+    "p_2tailed": 0.0543
+  },
+  "note": "n=3 underpowered: no per-backbone test reaches p<0.05; pooled p=0.054 (borderline). 5-seed re-run planned to confirm."
+}

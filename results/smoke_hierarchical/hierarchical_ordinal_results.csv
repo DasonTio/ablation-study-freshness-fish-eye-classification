@@ -1,0 +1,2 @@
+backbone,seed,best_val_class_acc,test_class_acc,test_class_precision,test_class_recall,test_class_f1,test_freshness_acc,test_freshness_mae,test_freshness_adjacent_errors,test_freshness_severe_errors
+smoke_resnet18,42,0.0,0.0,0.0,0.0,0.0,100.0,0.0,0,0

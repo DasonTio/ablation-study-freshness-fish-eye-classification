@@ -1,0 +1,34 @@
+# Data (download from Mendeley, DOI in README)
+data/
+
+# Model checkpoints — too large for git; regenerate via training scripts
+results/checkpoints/
+*.pth
+*.pt
+
+# Logs and console captures
+*.log
+results/**/console*.log
+results/local_watch_*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+
+# OS / editor
+.DS_Store
+*.swp
+
+# Office working copies
+~$*.docx
+*.tmp
+
+# Local-only: tooling, third-party reference PDFs, old drafts, scratch
+.gstack/
+docs/superpowers/
+paper/references/
+paper/examples/
+*.jpeg

@@ -1,0 +1,53 @@
+{
+  "n_test": 878,
+  "flat_24class_acc": 88.61,
+  "hier_24class_acc": 89.41,
+  "mcnemar_24class_flat_vs_hier": {
+    "b": 27,
+    "c": 34,
+    "p_exact": 0.4426260049464714
+  },
+  "freshness_class_derived": {
+    "flat_severe": 6,
+    "hier_severe": 2,
+    "flat_severe_rate_pct": 0.683,
+    "hier_severe_rate_pct": 0.228,
+    "flat_mae": 0.1139,
+    "hier_mae": 0.1014,
+    "flat_qwk": 0.9078,
+    "hier_qwk": 0.9227,
+    "mcnemar_severe": {
+      "b": 2,
+      "c": 6,
+      "p_exact": 0.2890625
+    }
+  },
+  "freshness_hier_coral_head": {
+    "severe": 2,
+    "severe_rate_pct": 0.228,
+    "mae": 0.1082,
+    "qwk": 0.9174,
+    "severe_rate_ci95": [
+      0.0,
+      0.569
+    ]
+  },
+  "severe_reduction_factor_flatCD_vs_hierCORAL": 3.0,
+  "hier_24class_acc_ci95": [
+    87.24,
+    91.34
+  ],
+  "hier_coral_qwk_ci95": [
+    0.8989,
+    0.9345
+  ],
+  "hier_coral_mae_ci95": [
+    0.0899,
+    0.1298
+  ],
+  "accuracy_paired_ttest_3seed": {
+    "t": 0.89,
+    "p": 0.4672,
+    "mean_diff_pp": 0.95
+  }
+}

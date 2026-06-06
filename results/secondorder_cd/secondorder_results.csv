@@ -1,0 +1,11 @@
+arm,pooling,seed,best_val_class_acc,species_weight,freshness_weight,run_hours,test_class_acc,test_class_precision,test_class_recall,test_class_f1,test_freshness_acc_classderived,test_freshness_mae_classderived,test_freshness_adjacent_classderived,test_freshness_severe_classderived,test_freshness_acc_head,test_freshness_mae_head,test_freshness_adjacent_head,test_freshness_severe_head
+C_gap_raw_bilinear,gap_raw_bilinear,42,88.18,0.0,0.0,0.205,88.85,89.23,89.11,88.99,89.19,0.116,88,7,26.62,0.9545,451,194
+C_gap_raw_bilinear,gap_raw_bilinear,123,86.04,0.0,0.0,0.066,83.16,84.45,80.13,79.51,83.62,0.1809,129,15,30.26,0.8362,491,122
+C_gap_raw_bilinear,gap_raw_bilinear,2024,85.9,0.0,0.0,0.079,84.41,84.12,83.6,83.31,85.21,0.1638,116,14,39.82,0.7941,360,169
+C_gap_raw_bilinear,gap_raw_bilinear,7,88.18,0.0,0.0,0.134,86.46,86.15,85.69,85.58,87.03,0.1388,106,8,40.96,0.7645,366,153
+C_gap_raw_bilinear,gap_raw_bilinear,2025,86.04,0.0,0.0,0.079,86.8,86.23,85.61,85.6,87.37,0.1331,105,6,37.66,0.7634,425,123
+D_centered_cov,centered_cov,42,88.46,0.0,0.0,0.185,87.37,87.07,87.14,86.69,87.94,0.1274,100,6,33.79,0.8532,414,168
+D_centered_cov,centered_cov,123,88.03,0.0,0.0,0.152,85.89,85.15,84.22,83.6,86.23,0.1422,117,4,39.25,0.6462,500,34
+D_centered_cov,centered_cov,2024,88.75,0.0,0.0,0.153,86.35,85.69,85.71,85.42,86.8,0.1388,110,6,24.23,0.8851,554,112
+D_centered_cov,centered_cov,7,85.04,0.0,0.0,0.095,82.94,84.31,82.49,82.6,83.16,0.1786,139,9,33.33,0.8714,406,180
+D_centered_cov,centered_cov,2025,87.32,0.0,0.0,0.141,86.46,85.82,85.08,84.77,86.92,0.1377,109,6,28.9,1.0375,338,287

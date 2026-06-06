@@ -1,0 +1,879 @@
+path,true_class,pred_class,true_freshness,pred_freshness,class_correct,freshness_abs_error,confidence
+data/FFE/Eleutheronema Tetradactylum - Highly Fresh/IMG_20191014_073017.jpg,Eleutheronema Tetradactylum - Highly Fresh,Eleutheronema Tetradactylum - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8772417902946472
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191111_052939.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9052183628082275
+data/FFE/Eleutheronema Tetradactylum - Fresh/IMG_20191017_072110.jpg,Eleutheronema Tetradactylum - Fresh,Eleutheronema Tetradactylum - Not Fresh,Fresh,Not Fresh,0,1,0.720953643321991
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_080814_4.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.5476059317588806
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191111_063952_3.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8631771206855774
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191016_064630.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.909618079662323
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191112_064151_1.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.8838334083557129
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191110_081502.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9003694653511047
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191114_060701_1.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9001801013946533
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191004_064518.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.7852824926376343
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_062015_1.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9191350340843201
+data/FFE/Johnius Trachycephalus - Fresh/IMG_20191017_070543.jpg,Johnius Trachycephalus - Fresh,Johnius Trachycephalus - Fresh,Fresh,Fresh,1,0,0.4890297055244446
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191115_062318_1.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora -  Highly Fresh,Not Fresh,Highly Fresh,0,2,0.6769021153450012
+data/FFE/Johnius Trachycephalus - Fresh/IMG_20191016_070634.jpg,Johnius Trachycephalus - Fresh,Johnius Trachycephalus - Fresh,Fresh,Fresh,1,0,0.8951568603515625
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191114_063705.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.8971477746963501
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20190930_070347.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9248073101043701
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_073853_1.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9116839170455933
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_054316_2.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8274023532867432
+data/FFE/Eleutheronema Tetradactylum - Highly Fresh/IMG_20191015_071958.jpg,Eleutheronema Tetradactylum - Highly Fresh,Eleutheronema Tetradactylum - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8842872381210327
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191014_070022.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9144850373268127
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191113_055227_2.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Not Fresh,Fresh,Not Fresh,0,1,0.3195510804653168
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191114_062909.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.8984286785125732
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_055955_1.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.6492233276367188
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061136_3.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Not Fresh,Fresh,Not Fresh,0,1,0.8157268762588501
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191018_054901.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Fresh,Not Fresh,Fresh,0,1,0.8813463449478149
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_054634_e4.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9210205078125
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_053448_4.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.9011743664741516
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191018_054007_3.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.9054914712905884
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191015_064334.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9107761383056641
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_060853_1.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9103190302848816
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191110_060735.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.4990808069705963
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191017_062008.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9051952362060547
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191018_054533.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.9154713749885559
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191114_062717_2.jpg,Nibea Albiflora - Not Fresh,Upeneus Moluccensis - Fresh,Not Fresh,Fresh,0,1,0.6213694214820862
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191114_053824.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.915324866771698
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_053653.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.8168729543685913
+data/FFE/Johnius Trachycephalus - Not Fresh/IMG_20191018_060805.jpg,Johnius Trachycephalus - Not Fresh,Johnius Trachycephalus - Fresh,Not Fresh,Fresh,0,1,0.713556706905365
+data/FFE/Eleutheronema Tetradactylum - Fresh/IMG_20191017_071727.jpg,Eleutheronema Tetradactylum - Fresh,Eleutheronema Tetradactylum - Fresh,Fresh,Fresh,1,0,0.9217399954795837
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191113_055439.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.8947867751121521
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191114_055445_2.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.7706059813499451
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191018_054939.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Fresh,Not Fresh,Fresh,0,1,0.7211795449256897
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191004_064613.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Fresh,Not Fresh,Fresh,0,1,0.6489666700363159
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191017_062806.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.7742874026298523
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191018_055913.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.9081644415855408
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_054316_3.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9065184593200684
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055135_1.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.90611332654953
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191115_052830.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.9224848747253418
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191112_060732_6.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Not Fresh,Fresh,Not Fresh,0,1,0.7405828237533569
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191112_054339.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.8970382809638977
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055059_@.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9052128195762634
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191114_063043_3.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.9098815321922302
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_074049.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9008954763412476
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191115_053245.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.9020093083381653
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_072355_4.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9113118052482605
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191019_060441.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.895829439163208
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191115_054150.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8798810243606567
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191005_070827.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9150039553642273
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191112_054500.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.8958015441894531
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055628_3.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8438188433647156
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_053448_3.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Not Fresh,Fresh,Fresh,0,0,0.5400076508522034
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_075949_2.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9129966497421265
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_053414_1.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.7648216485977173
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191113_054048.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.9120261073112488
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_054948.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Fresh,Highly Fresh,Fresh,0,1,0.7698962092399597
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191115_061423_2.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.9063556790351868
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191004_063408.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.8847977519035339
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191111_052528.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Fresh,Highly Fresh,Fresh,0,1,0.871345043182373
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055620_8.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9109591841697693
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061819_1.jpg,Nibea Albiflora - Fresh,Nibea Albiflora -  Highly Fresh,Fresh,Highly Fresh,0,1,0.9015354514122009
+data/FFE/Nibea Albiflora - Fresh/IMG_20191113_060958_1.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.9005092978477478
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191018_055615.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.9217080473899841
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191114_060847_2.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8143929839134216
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191115_062049.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.8757038712501526
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191114_060335_3.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9055503010749817
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191112_060519_1.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.6712765693664551
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191015_063237.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.4327203333377838
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191018_055000.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.9226744174957275
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191015_063328.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.904756486415863
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_061234_1.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9040293097496033
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061718_1.jpg,Nibea Albiflora - Fresh,Nibea Albiflora -  Highly Fresh,Fresh,Highly Fresh,0,1,0.7539450526237488
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191111_061633.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Fresh,Highly Fresh,Fresh,0,1,0.5901826024055481
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191001_064844.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Fresh,Highly Fresh,Fresh,0,1,0.44930872321128845
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_074100.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9174874424934387
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055620_1.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9111747145652771
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191003_064015.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.5521908402442932
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_074449.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9199516177177429
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191113_053800.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.9015026092529297
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_073529.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9096449017524719
+data/FFE/Johnius Trachycephalus - Fresh/IMG_20191017_070155.jpg,Johnius Trachycephalus - Fresh,Johnius Trachycephalus - Fresh,Fresh,Fresh,1,0,0.9057126045227051
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061729_3.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.8902982473373413
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055053_4.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Fresh,Highly Fresh,Fresh,0,1,0.416696697473526
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191114_055156.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8802055716514587
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191016_063804.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9209513664245605
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_061134_4.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.7882595062255859
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191112_063807_1.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.8078858256340027
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191115_062001_3.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.8826587796211243
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191112_055126_2.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.7893120050430298
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055848_1.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.4105689227581024
+data/FFE/Nibea Albiflora - Fresh/IMG_20191113_060939_1.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.8860273361206055
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191015_063028.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9100835919380188
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_072227_3.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9262702465057373
+data/FFE/Johnius Trachycephalus - Not Fresh/IMG_20191018_060128.jpg,Johnius Trachycephalus - Not Fresh,Johnius Trachycephalus - Not Fresh,Not Fresh,Not Fresh,1,0,0.911593496799469
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_073853_3.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8129851818084717
+data/FFE/Johnius Trachycephalus - Not Fresh/IMG_20191018_060205.jpg,Johnius Trachycephalus - Not Fresh,Johnius Trachycephalus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9054197669029236
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_075717.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.910769522190094
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191016_064612.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.8957052826881409
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191112_064151_2.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.6379054188728333
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_073121_1.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9191284775733948
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191111_063332.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8906508088111877
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191002_064354.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.5956423878669739
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191017_063933.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.9042460322380066
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191113_055324.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.9117773771286011
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191112_063807_2.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.8744106888771057
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191114_061722.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.6483935117721558
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191115_053703.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.9157499074935913
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191113_061429.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.8802224397659302
+data/FFE/Eleutheronema Tetradactylum - Highly Fresh/IMG_20191014_072316.jpg,Eleutheronema Tetradactylum - Highly Fresh,Eleutheronema Tetradactylum - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9323901534080505
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_073746.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8360830545425415
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_054527_1.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.7676947116851807
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_061303_7.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9066587686538696
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20190930_072320.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8921937346458435
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191014_064806.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9137924313545227
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191111_062708_1.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8351336717605591
+data/FFE/Chanos Chanos - Fresh/IMG_20191112_052551.jpg,Chanos Chanos - Fresh,Chanos Chanos - Fresh,Fresh,Fresh,1,0,0.9193569421768188
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_064253_1.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Not Fresh,Fresh,Not Fresh,0,1,0.6752601861953735
+data/FFE/Johnius Trachycephalus - Not Fresh/IMG_20191019_062411.jpg,Johnius Trachycephalus - Not Fresh,Johnius Trachycephalus - Not Fresh,Not Fresh,Not Fresh,1,0,0.7982449531555176
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20190930_070508.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9087406992912292
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_061504_1.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9314453601837158
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_073507.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9135961532592773
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061239_1.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Not Fresh,Fresh,Not Fresh,0,1,0.9037240743637085
+data/FFE/Johnius Trachycephalus - Highly Fresh/IMG_20191015_065805.jpg,Johnius Trachycephalus - Highly Fresh,Johnius Trachycephalus - Highly Fresh,Highly Fresh,Fresh,1,1,0.4232726991176605
+data/FFE/Johnius Trachycephalus - Not Fresh/IMG_20191018_060706.jpg,Johnius Trachycephalus - Not Fresh,Johnius Trachycephalus - Fresh,Not Fresh,Fresh,0,1,0.8113749623298645
+data/FFE/Nibea Albiflora - Fresh/IMG_20191113_060651_2.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.8849003314971924
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191115_063606.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Highly Fresh,Not Fresh,Highly Fresh,0,2,0.5595934987068176
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_075152.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9126432538032532
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191001_063920.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9396525621414185
+data/FFE/Eleutheronema Tetradactylum - Fresh/IMG_20191017_072055.jpg,Eleutheronema Tetradactylum - Fresh,Eleutheronema Tetradactylum - Fresh,Fresh,Fresh,1,0,0.8700169920921326
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191113_055933_2.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.8709651827812195
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_053645.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Highly Fresh,Fresh,Highly Fresh,0,1,0.4884262681007385
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191111_062111.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8951110243797302
+data/FFE/Eleutheronema Tetradactylum - Highly Fresh/IMG_20191014_072958.jpg,Eleutheronema Tetradactylum - Highly Fresh,Eleutheronema Tetradactylum - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8916516900062561
+data/FFE/Nibea Albiflora - Fresh/IMG_20191113_060756_2.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.8972898125648499
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191113_054842.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.8971872329711914
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191111_063134_1.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9135615229606628
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_073651.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8667656183242798
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191115_062053.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.8882519602775574
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191114_062331.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Fresh,Not Fresh,Fresh,0,1,0.6116296648979187
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055549_1.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9142230153083801
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_075912.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.896576464176178
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_073843_2.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9276010394096375
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191115_064019_1.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.8292129039764404
+data/FFE/Eleutheronema Tetradactylum - Fresh/IMG_20191016_071110.jpg,Eleutheronema Tetradactylum - Fresh,Eleutheronema Tetradactylum - Fresh,Fresh,Fresh,1,0,0.43805819749832153
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191114_061829_2.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.8336527943611145
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191016_065038.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.9114525318145752
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191112_055841_1.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9252635836601257
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055522_3.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9056659936904907
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20190930_071236.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8922017812728882
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191114_060903_2.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8893018364906311
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191115_055105.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9099630117416382
+data/FFE/Johnius Trachycephalus - Not Fresh/IMG_20191018_060103.jpg,Johnius Trachycephalus - Not Fresh,Johnius Trachycephalus - Not Fresh,Not Fresh,Not Fresh,1,0,0.7908905148506165
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_061339_5.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9006940722465515
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191115_060057.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8477473855018616
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_075949_3.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.907270610332489
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_060730.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8977077603340149
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055648_8.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9067152142524719
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055119_2.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8945522308349609
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055912_3.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9027529358863831
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191112_062642_1.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.883330762386322
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191004_065012.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.49365612864494324
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191114_061725.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.6425270438194275
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_080728_1.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9180898666381836
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191115_061319.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.9100822806358337
+data/FFE/Eleutheronema Tetradactylum - Highly Fresh/IMG_20191014_072418.jpg,Eleutheronema Tetradactylum - Highly Fresh,Eleutheronema Tetradactylum - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9142833948135376
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191113_055610_1.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.9116592407226562
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191003_063650.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.9046845436096191
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_060726.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Fresh,Highly Fresh,Fresh,0,1,0.588441014289856
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_061453_2.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.7640097141265869
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191115_055951_3.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Niloticus - Fresh,Not Fresh,Fresh,0,1,0.3956228196620941
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_053745.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Not Fresh,Fresh,Not Fresh,0,1,0.5240949988365173
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_061419_1.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.754429817199707
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191003_063710.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.9029592871665955
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055129_3.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9025342464447021
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055457_1.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9159381985664368
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061006.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Not Fresh,Fresh,Not Fresh,0,1,0.8336264491081238
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191112_062514.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.9089275002479553
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_075539.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.914963960647583
+data/FFE/Eleutheronema Tetradactylum - Not Fresh/IMG_20191018_061531.jpg,Eleutheronema Tetradactylum - Not Fresh,Eleutheronema Tetradactylum - Not Fresh,Not Fresh,Not Fresh,1,0,0.8232629299163818
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191002_064825.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.8787462115287781
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191004_064211.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Fresh,Not Fresh,Fresh,0,1,0.7652868628501892
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191115_063618.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.7979555130004883
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191016_063347.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9232288599014282
+data/FFE/Eleutheronema Tetradactylum - Not Fresh/IMG_20191018_062053.jpg,Eleutheronema Tetradactylum - Not Fresh,Eleutheronema Tetradactylum - Not Fresh,Not Fresh,Not Fresh,1,0,0.8906285762786865
+data/FFE/Eleutheronema Tetradactylum - Fresh/IMG_20191017_071832.jpg,Eleutheronema Tetradactylum - Fresh,Eleutheronema Tetradactylum - Fresh,Fresh,Fresh,1,0,0.848888635635376
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191111_063134_3.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.6325945258140564
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_053201.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.8771541714668274
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191113_054516.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.8885374069213867
+data/FFE/Johnius Trachycephalus - Fresh/IMG_20191017_070038.jpg,Johnius Trachycephalus - Fresh,Johnius Trachycephalus - Not Fresh,Fresh,Not Fresh,0,1,0.49644771218299866
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191004_064539.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.6767136454582214
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191115_060356_5.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9114999771118164
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191002_064122.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Not Fresh,Fresh,Not Fresh,0,1,0.9073408842086792
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055620_7.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8442685008049011
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191115_063611.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.8897735476493835
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191114_061504_1.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Fresh,Not Fresh,Fresh,0,1,0.8620510101318359
+data/FFE/Chanos Chanos - Fresh/IMG_20191003_064516.jpg,Chanos Chanos - Fresh,Chanos Chanos - Fresh,Fresh,Fresh,1,0,0.9150049686431885
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191115_055944_1.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8649483323097229
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191019_055931.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.9260640740394592
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055223_9.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8986498713493347
+data/FFE/Nibea Albiflora - Fresh/IMG_20191113_060846.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.8119915127754211
+data/FFE/Johnius Trachycephalus - Not Fresh/IMG_20191018_060715.jpg,Johnius Trachycephalus - Not Fresh,Johnius Trachycephalus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9010801911354065
+data/FFE/Johnius Trachycephalus - Fresh/IMG_20191016_070721.jpg,Johnius Trachycephalus - Fresh,Johnius Trachycephalus - Fresh,Fresh,Fresh,1,0,0.9091759324073792
+data/FFE/Eleutheronema Tetradactylum - Fresh/IMG_20191017_071504.jpg,Eleutheronema Tetradactylum - Fresh,Eleutheronema Tetradactylum - Fresh,Fresh,Fresh,1,0,0.5206701755523682
+data/FFE/Eleutheronema Tetradactylum - Not Fresh/IMG_20191019_064545.jpg,Eleutheronema Tetradactylum - Not Fresh,Eleutheronema Tetradactylum - Not Fresh,Not Fresh,Not Fresh,1,0,0.8946784734725952
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191113_055957_2.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.8924380540847778
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_061316_2.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9153020977973938
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191113_054723_3.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.900629460811615
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191111_063134_2.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9029810428619385
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20190930_070446.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.928103506565094
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_074958_5.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.904503345489502
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055628_6.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9168077707290649
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191112_063519.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.908866822719574
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191115_052735.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.9053822159767151
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_080045.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9055258631706238
+data/FFE/Johnius Trachycephalus - Highly Fresh/IMG_20191014_071149.jpg,Johnius Trachycephalus - Highly Fresh,Johnius Trachycephalus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9152926802635193
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191019_055402.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Fresh,Not Fresh,Fresh,0,1,0.3804630637168884
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191115_063524.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.8239983320236206
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191017_063537.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.8769822716712952
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191112_063747_2.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.9072467684745789
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191018_055934.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.8888936042785645
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191004_063106.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Fresh,Not Fresh,Fresh,0,1,0.90273517370224
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191113_055013_2.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.9118744134902954
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191016_063306.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.7885943055152893
+data/FFE/Eleutheronema Tetradactylum - Not Fresh/IMG_20191019_063909.jpg,Eleutheronema Tetradactylum - Not Fresh,Eleutheronema Tetradactylum - Not Fresh,Not Fresh,Not Fresh,1,0,0.8835879564285278
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191113_060020_3.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.8727896213531494
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191004_064340.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9122585654258728
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191113_054226_5.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.8893945813179016
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191111_053012.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9129368662834167
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_053854_2.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.9079216718673706
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_053344.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.8822510242462158
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_062116_5.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9210132360458374
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_073144_6.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9271724820137024
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191113_053907.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.8901098370552063
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_074823.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9058188199996948
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191014_065033.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9122058153152466
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191004_064048.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Fresh,Not Fresh,Fresh,0,1,0.805391252040863
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_054156_2.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9331949353218079
+data/FFE/Eleutheronema Tetradactylum - Fresh/IMG_20191017_072208.jpg,Eleutheronema Tetradactylum - Fresh,Eleutheronema Tetradactylum - Fresh,Fresh,Fresh,1,0,0.8498721122741699
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191114_062717_1.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.9072631597518921
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191004_063417.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.8752316832542419
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_060620.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9058505296707153
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191112_055627.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.8116589188575745
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191111_063738.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8961860537528992
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_060306.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Fresh,Highly Fresh,Fresh,0,1,0.9187231063842773
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_055950_3.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9109328985214233
+data/FFE/Eleutheronema Tetradactylum - Highly Fresh/IMG_20191015_071605.jpg,Eleutheronema Tetradactylum - Highly Fresh,Eleutheronema Tetradactylum - Highly Fresh,Highly Fresh,Fresh,1,1,0.4264885187149048
+data/FFE/Johnius Trachycephalus - Not Fresh/IMG_20191019_062755.jpg,Johnius Trachycephalus - Not Fresh,Johnius Trachycephalus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9129486680030823
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191111_063623_2.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8401530385017395
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191112_054602_1.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.878641664981842
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191111_063134_4.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.7563125491142273
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191115_062149.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.882134735584259
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055230_8.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9031004905700684
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191115_054804.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8921039700508118
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191113_061754_1.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.6875888109207153
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055230.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8987725973129272
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191114_055504.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8249984383583069
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191002_064612.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Not Fresh,Fresh,Not Fresh,0,1,0.8367573618888855
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055112_5.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9019421935081482
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191113_055929_1.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.8894526958465576
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055628_9.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8904126882553101
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191017_061848.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9187719821929932
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191114_060313_1.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8963200449943542
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_074816.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8962790369987488
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191018_055454.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.9229211807250977
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191110_081405.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.916434109210968
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191003_063806.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Highly Fresh,Fresh,Highly Fresh,0,1,0.4948771893978119
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_080139_@.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8826855421066284
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055204_4.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8991407155990601
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191114_054219.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.7723396420478821
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_060913_2.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8753066658973694
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191019_060127.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Fresh,Not Fresh,Fresh,0,1,0.7959651947021484
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191113_054509.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.8864462971687317
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191017_063031.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9146241545677185
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_073405.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9220912456512451
+data/FFE/Chanos Chanos - Fresh/IMG_20191002_063229.jpg,Chanos Chanos - Fresh,Chanos Chanos - Fresh,Fresh,Fresh,1,0,0.8426676988601685
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191114_060324_1.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8431226015090942
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055354_2.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9033189415931702
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191004_063428.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.9177172183990479
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191113_060119_1.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.5799965858459473
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20190930_070557.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9048044681549072
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_075104.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9163922667503357
+data/FFE/Eleutheronema Tetradactylum - Highly Fresh/IMG_20191014_072038.jpg,Eleutheronema Tetradactylum - Highly Fresh,Eleutheronema Tetradactylum - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9104209542274475
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191113_061836_2.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9256353378295898
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_075422_3.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9076820611953735
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055218_1.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9064440727233887
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191112_055232_4.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.8679688572883606
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061455_2.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.5997405052185059
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191114_062924_1.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.9124436378479004
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191004_063538.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.9099091291427612
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191115_052812.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.8817256093025208
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191115_060917.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Fresh,1,1,0.4054601788520813
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_061303_6.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9232144355773926
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191112_054310.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.8266010880470276
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191115_062736.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.9242697954177856
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191017_063521.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.9178014397621155
+data/FFE/Nibea Albiflora - Fresh/IMG_20191113_060710_2.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.8864392042160034
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_074832.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9114829301834106
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191002_064558.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.8207418322563171
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191113_055132.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.8919585347175598
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_062021_4.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9062128067016602
+data/FFE/Eleutheronema Tetradactylum - Not Fresh/IMG_20191018_061827.jpg,Eleutheronema Tetradactylum - Not Fresh,Eleutheronema Tetradactylum - Not Fresh,Not Fresh,Not Fresh,1,0,0.8886534571647644
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191005_072641.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.9160650372505188
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191115_055912.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.6863616704940796
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191111_053033.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9126520752906799
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191114_060658_2.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8975443840026855
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191111_062345_3.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9115767478942871
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055619.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9067902565002441
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_073827_1.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9073688983917236
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191113_053738.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.8809778690338135
+data/FFE/Eleutheronema Tetradactylum - Not Fresh/IMG_20191018_061519.jpg,Eleutheronema Tetradactylum - Not Fresh,Eleutheronema Tetradactylum - Not Fresh,Not Fresh,Not Fresh,1,0,0.7137734889984131
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191113_062505_7.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9162812232971191
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055538_5.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9144986271858215
+data/FFE/Chanos Chanos - Fresh/IMG_20191112_051927.jpg,Chanos Chanos - Fresh,Chanos Chanos - Fresh,Fresh,Fresh,1,0,0.8548214435577393
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191019_060811.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Fresh,Not Fresh,Fresh,0,1,0.8119266033172607
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191015_064237.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9085373282432556
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_075619.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9031935334205627
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191114_055347.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9150159358978271
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_061959_1.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9191908240318298
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191014_070033.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9143182039260864
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_060645.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9110492467880249
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191115_063933.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.9022246599197388
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191017_064614.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.9012624025344849
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191114_062624.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.8994144201278687
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191113_054058.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.878848135471344
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191111_062814_2.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8213453888893127
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191115_053159.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.6166507005691528
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191114_060624.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8115754723548889
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191004_063505.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.8884766101837158
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191111_062104.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9093499779701233
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061336.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Not Fresh,1,1,0.3942722678184509
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055726.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.898212730884552
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191001_064952.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Fresh,Highly Fresh,Fresh,0,1,0.4903015196323395
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191114_055715.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9147499203681946
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_060920_2.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8889354467391968
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_080739_2.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8993837237358093
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_075811.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9018651843070984
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191113_055227_3.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.9186992645263672
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191115_055732.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Fresh,Not Fresh,Fresh,0,1,0.8321054577827454
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191113_055016_2.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.9010480642318726
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_054156_5.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9147050380706787
+data/FFE/Eleutheronema Tetradactylum - Highly Fresh/IMG_20191014_072400.jpg,Eleutheronema Tetradactylum - Highly Fresh,Eleutheronema Tetradactylum - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8421887755393982
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191115_055149.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9157609939575195
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191115_062211_1.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.9164369106292725
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_080914.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora - Fresh,Highly Fresh,Fresh,0,1,0.38723546266555786
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191001_064546.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.929863452911377
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191001_064527.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9250193238258362
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_053852.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9227060675621033
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191115_063700_2.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.8619316816329956
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191017_064114.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.9154170155525208
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_075320_2.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.909302830696106
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055230_6.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9147108197212219
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191114_060626.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.4427375793457031
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191016_065136.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.9094107747077942
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191115_063051.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.8958452343940735
+data/FFE/Nibea Albiflora - Fresh/IMG_20191113_060315.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.798851728439331
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191114_063530.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.655600905418396
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191114_062127_2.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.930730402469635
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061715_1.jpg,Nibea Albiflora - Fresh,Nibea Albiflora -  Highly Fresh,Fresh,Highly Fresh,0,1,0.876203179359436
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191019_060320.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.9103503227233887
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191111_063340_1.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9131778478622437
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_075644.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9161853790283203
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191115_062016_4.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.9189265966415405
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191112_055858_2.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Highly Fresh,Fresh,Highly Fresh,0,1,0.895980954170227
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191113_062241_1.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.8813397884368896
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055235_12.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.894508421421051
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_055950_2.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.6831551194190979
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191113_054226_4.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.8882988691329956
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_080942_1.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9105963110923767
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055124_7.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9133650064468384
+data/FFE/Johnius Trachycephalus - Not Fresh/IMG_20191018_060936.jpg,Johnius Trachycephalus - Not Fresh,Johnius Trachycephalus - Fresh,Not Fresh,Fresh,0,1,0.8621625304222107
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_072959.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9377613067626953
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191110_081618.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9211572408676147
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055526_3.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9058396816253662
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_074958_4.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.90846848487854
+data/FFE/Johnius Trachycephalus - Fresh/IMG_20191017_070019.jpg,Johnius Trachycephalus - Fresh,Johnius Trachycephalus - Fresh,Fresh,Fresh,1,0,0.9160862565040588
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191017_063155.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.835361659526825
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191114_054824.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9348838329315186
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191115_060716.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Fresh,Not Fresh,Fresh,0,1,0.6488611698150635
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_075924_1.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9041595458984375
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_053833_1.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Highly Fresh,Fresh,Highly Fresh,0,1,0.7005941867828369
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191015_064923.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9033412337303162
+data/FFE/Chanos Chanos - Fresh/IMG_20191002_063003.jpg,Chanos Chanos - Fresh,Chanos Chanos - Fresh,Fresh,Fresh,1,0,0.9153456091880798
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191019_060019.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.8661047220230103
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191111_052535.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Fresh,Highly Fresh,Fresh,0,1,0.658289909362793
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191015_062725.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.887245237827301
+data/FFE/Chanos Chanos - Fresh/IMG_20191112_052058.jpg,Chanos Chanos - Fresh,Chanos Chanos - Not Fresh,Fresh,Not Fresh,0,1,0.8277032971382141
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_061132_1.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8703966736793518
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191014_064617.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8769420981407166
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191112_060348.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.8956533074378967
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191113_055707_2.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.8906247019767761
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191115_061400_2.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.9130163788795471
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191115_063024.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.9107644557952881
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055518_1.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8862905502319336
+data/FFE/Eleutheronema Tetradactylum - Fresh/IMG_20191017_071327.jpg,Eleutheronema Tetradactylum - Fresh,Eleutheronema Tetradactylum - Fresh,Fresh,Fresh,1,0,0.8274500966072083
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191113_062217_1.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.92094886302948
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055457_4.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Fresh,Highly Fresh,Fresh,0,1,0.6519263982772827
+data/FFE/Eleutheronema Tetradactylum - Fresh/IMG_20191017_071601.jpg,Eleutheronema Tetradactylum - Fresh,Eleutheronema Tetradactylum - Fresh,Fresh,Fresh,1,0,0.8582464456558228
+data/FFE/Chanos Chanos - Fresh/IMG_20191113_052438.jpg,Chanos Chanos - Fresh,Chanos Chanos - Fresh,Fresh,Fresh,1,0,0.916983962059021
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_053357_1.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.8698213696479797
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191001_064838.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.7382901906967163
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_073732.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9185771346092224
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_062116_3.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9036526083946228
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191111_063121_3.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.6602306365966797
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191114_055445.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.914145827293396
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191115_062830.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.8562425971031189
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_054109_3.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9239261150360107
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191114_060034.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.7755919098854065
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191004_063053.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.6245334148406982
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191114_053703.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.922992467880249
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191112_060010_3.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Highly Fresh,Fresh,Highly Fresh,0,1,0.47058624029159546
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055530.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8663014769554138
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191115_060125.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,0,0,0.808944582939148
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_055950.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.35520070791244507
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_061134_3.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8929325342178345
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191114_063938_3.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.8965646624565125
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191113_054245.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Highly Fresh,1,1,0.44516006112098694
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191019_055311.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Fresh,Not Fresh,Fresh,0,1,0.7805646657943726
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055235_5.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9071849584579468
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191110_081642.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9101862907409668
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061657_5.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.9079112410545349
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_061134_5.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.912081241607666
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191115_062016_1.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.9067267775535583
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191114_060217.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8207845687866211
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191018_055900.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.9035066962242126
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191016_063520.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.7431215643882751
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_080150_2.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8904409408569336
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191113_055949_1.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.9084728956222534
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_054634_1.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9324498772621155
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191115_054648.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9101377725601196
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191114_055448_1.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9053359031677246
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191015_063502.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8718994855880737
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191113_054823.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.767216145992279
+data/FFE/Eleutheronema Tetradactylum - Not Fresh/IMG_20191019_064532.jpg,Eleutheronema Tetradactylum - Not Fresh,Eleutheronema Tetradactylum - Not Fresh,Not Fresh,Not Fresh,1,0,0.9173147082328796
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055218_2.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9214117527008057
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191019_061352.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.9144262671470642
+data/FFE/Eleutheronema Tetradactylum - Not Fresh/IMG_20191018_061708.jpg,Eleutheronema Tetradactylum - Not Fresh,Eleutheronema Tetradactylum - Not Fresh,Not Fresh,Not Fresh,1,0,0.9037496447563171
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191113_061824_2.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.934859037399292
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191018_055626.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.9102715253829956
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191115_054949.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9239566326141357
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191114_055438_1.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8493757247924805
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_073522.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9173654317855835
+data/FFE/Johnius Trachycephalus - Fresh/IMG_20191017_065255.jpg,Johnius Trachycephalus - Fresh,Johnius Trachycephalus - Fresh,Fresh,Fresh,1,0,0.5450335144996643
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_062047_1.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.25186869502067566
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191018_055820.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.885445773601532
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191019_061320.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.9066393375396729
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_080452.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.917430579662323
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_080522.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9073261022567749
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191112_063516.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.4216247498989105
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191113_061408.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9130241870880127
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_080200_6.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.909105658531189
+data/FFE/Eleutheronema Tetradactylum - Not Fresh/IMG_20191018_061359.jpg,Eleutheronema Tetradactylum - Not Fresh,Eleutheronema Tetradactylum - Not Fresh,Not Fresh,Not Fresh,1,0,0.7178948521614075
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191019_060312.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.7959660291671753
+data/FFE/Johnius Trachycephalus - Fresh/IMG_20191016_070154.jpg,Johnius Trachycephalus - Fresh,Johnius Trachycephalus - Fresh,Fresh,Fresh,1,0,0.9205266237258911
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055529_2.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8967887759208679
+data/FFE/Chanos Chanos - Fresh/IMG_20191112_051945.jpg,Chanos Chanos - Fresh,Chanos Chanos - Fresh,Fresh,Fresh,1,0,0.8590747714042664
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_061419_6.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.924447238445282
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_062021_3.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.799860417842865
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055132.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8959560394287109
+data/FFE/Chanos Chanos - Fresh/IMG_20191112_052757.jpg,Chanos Chanos - Fresh,Chanos Chanos - Highly Fresh,Fresh,Highly Fresh,0,1,0.7559779286384583
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_054156_4.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8836966753005981
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_054019_6.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9284508228302002
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191003_063612.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.8364595174789429
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_061105_2.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9087699055671692
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055457_6.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8866944313049316
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191014_070516.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9099143743515015
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191114_055156_1.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8623904585838318
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191112_054941_1.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.9051479697227478
+data/FFE/Johnius Trachycephalus - Highly Fresh/IMG_20191015_070240.jpg,Johnius Trachycephalus - Highly Fresh,Johnius Trachycephalus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.41061320900917053
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_080814_1.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9076982736587524
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191115_055143_1.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9052509069442749
+data/FFE/Chanos Chanos - Fresh/IMG_20191002_063040.jpg,Chanos Chanos - Fresh,Chanos Chanos - Fresh,Fresh,Fresh,1,0,0.8467159271240234
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_073742.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9100317358970642
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055019.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8969862461090088
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191111_061939_3.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.7062055468559265
+data/FFE/Nibea Albiflora - Fresh/IMG_20191113_061155_2.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.7797028422355652
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_054245.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9258405566215515
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191005_071119.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9118741750717163
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_073933_1.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9206366539001465
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191113_055953_2.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.8997898697853088
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191113_062048.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9150291085243225
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191114_061612_1.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.9181932210922241
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191110_081259.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9273946285247803
+data/FFE/Eleutheronema Tetradactylum - Highly Fresh/IMG_20191015_072104.jpg,Eleutheronema Tetradactylum - Highly Fresh,Eleutheronema Tetradactylum - Fresh,Highly Fresh,Fresh,0,1,0.44530001282691956
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191111_052611.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9104925990104675
+data/FFE/Eleutheronema Tetradactylum - Not Fresh/IMG_20191019_063558.jpg,Eleutheronema Tetradactylum - Not Fresh,Eleutheronema Tetradactylum - Not Fresh,Not Fresh,Not Fresh,1,0,0.815421998500824
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191004_064412.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Fresh,Not Fresh,Fresh,0,1,0.7176968455314636
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191112_060644_4.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.922505795955658
+data/FFE/Chanos Chanos - Fresh/IMG_20191003_064306.jpg,Chanos Chanos - Fresh,Chanos Chanos - Fresh,Fresh,Fresh,1,0,0.7335876226425171
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191115_052746.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.8421820998191833
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191112_062741_2.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.9043281078338623
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191113_055707_4.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.9107759594917297
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055218_6.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9079412221908569
+data/FFE/Johnius Trachycephalus - Not Fresh/IMG_20191019_062458.jpg,Johnius Trachycephalus - Not Fresh,Johnius Trachycephalus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8986323475837708
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191115_064013_2.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.8662443161010742
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191004_064422.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8089701533317566
+data/FFE/Johnius Trachycephalus - Fresh/IMG_20191017_065436.jpg,Johnius Trachycephalus - Fresh,Johnius Trachycephalus - Fresh,Fresh,Fresh,1,0,0.9314262270927429
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191113_055900.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.8969322443008423
+data/FFE/Nibea Albiflora - Fresh/IMG_20191113_061050_1.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.896442711353302
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191017_062503.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9160045981407166
+data/FFE/Johnius Trachycephalus - Fresh/IMG_20191016_070710.jpg,Johnius Trachycephalus - Fresh,Johnius Trachycephalus - Fresh,Fresh,Fresh,1,0,0.9138180017471313
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191114_062829.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.8763497471809387
+data/FFE/Eleutheronema Tetradactylum - Not Fresh/IMG_20191018_061539.jpg,Eleutheronema Tetradactylum - Not Fresh,Eleutheronema Tetradactylum - Not Fresh,Not Fresh,Not Fresh,1,0,0.7962807416915894
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191110_060745.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.879977285861969
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191112_055032_3.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.8804180026054382
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_053704.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.8424485325813293
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191001_064820.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,0,0,0.420730322599411
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191019_060430.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.9084632396697998
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_053751.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.8450738787651062
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191114_055023.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9165738821029663
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_072736_6.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9168716073036194
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055259.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Fresh,Highly Fresh,Fresh,0,1,0.9083514213562012
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191111_062555.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.907077968120575
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191113_062249_3.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.7354269623756409
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_061255_3.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9052836298942566
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191114_060350_1.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.7971073389053345
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191015_064500.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.7752568125724792
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055112_8.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.90688556432724
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_074726.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.902259886264801
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191114_060335_4.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8704773187637329
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_075406_5.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9215440154075623
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_054516_2.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.5437687635421753
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191115_061423_1.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.909642219543457
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191002_064833.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.9013113975524902
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191005_072507.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.9105550646781921
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055244.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8649513721466064
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_053915_1.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.7003375291824341
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191014_070359.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9022122621536255
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191015_062200.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.79491126537323
+data/FFE/Chanos Chanos - Fresh/IMG_20191112_064326.jpg,Chanos Chanos - Fresh,Chanos Chanos - Highly Fresh,Fresh,Highly Fresh,0,1,0.858977198600769
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191019_055248.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.8789737224578857
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061500_1.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.8946791887283325
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_080954_1.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8905405402183533
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_062058_1.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8120707273483276
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191112_062545.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.7872458100318909
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20190930_072000.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9059301614761353
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191113_054024_1.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.683983564376831
+data/FFE/Nibea Albiflora - Fresh/IMG_20191113_060535.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.7303799390792847
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061136_1.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.8360433578491211
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_054737.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8853633403778076
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191018_055310.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.8994589447975159
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055601.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Fresh,Highly Fresh,Fresh,0,1,0.9014561772346497
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191115_060240_1.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9022639989852905
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055247.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.91273432970047
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191115_055143.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9179586172103882
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_072703_1.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9271449446678162
+data/FFE/Eleutheronema Tetradactylum - Fresh/IMG_20191016_071830.jpg,Eleutheronema Tetradactylum - Fresh,Eleutheronema Tetradactylum - Fresh,Fresh,Fresh,1,0,0.6371458172798157
+data/FFE/Chanos Chanos - Fresh/IMG_20191113_052750.jpg,Chanos Chanos - Fresh,Chanos Chanos - Fresh,Fresh,Fresh,1,0,0.9322099685668945
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_054101_7.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.9061773419380188
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191005_071854.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.7142313122749329
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191018_054723.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.8698647618293762
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191110_081303.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9155170321464539
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055124_1.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9064457416534424
+data/FFE/Chanos Chanos - Fresh/IMG_20191002_062812.jpg,Chanos Chanos - Fresh,Chanos Chanos - Fresh,Fresh,Fresh,1,0,0.9356014132499695
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_080200_4.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9108948111534119
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191114_055629.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9228293895721436
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191004_063453.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.7056347727775574
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191115_063927.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.9223922491073608
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191115_062211_2.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.8145039677619934
+data/FFE/Eleutheronema Tetradactylum - Fresh/IMG_20191016_071507.jpg,Eleutheronema Tetradactylum - Fresh,Eleutheronema Tetradactylum - Fresh,Fresh,Fresh,1,0,0.5564168095588684
+data/FFE/Eleutheronema Tetradactylum - Fresh/IMG_20191016_071551.jpg,Eleutheronema Tetradactylum - Fresh,Eleutheronema Tetradactylum - Fresh,Fresh,Fresh,1,0,0.8328122496604919
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191004_064802.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Fresh,1,1,0.5590752959251404
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_053256.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.8348809480667114
+data/FFE/Johnius Trachycephalus - Not Fresh/IMG_20191019_062740.jpg,Johnius Trachycephalus - Not Fresh,Johnius Trachycephalus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9327853918075562
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_080200_5.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9004326462745667
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191112_060040_1.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Not Fresh,1,1,0.48742353916168213
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191112_054832.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.922208309173584
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191115_054825_1.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9106773734092712
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061809_2.jpg,Nibea Albiflora - Fresh,Nibea Albiflora -  Highly Fresh,Fresh,Highly Fresh,0,1,0.7254300713539124
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_075631.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9128901958465576
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191002_064328.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Highly Fresh,Fresh,Highly Fresh,0,1,0.717280924320221
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191003_063213.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.8437510132789612
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191114_055340.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8477810621261597
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191019_061124.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.8313342928886414
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191005_071357.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9061050415039062
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_073144_4.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.877498984336853
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191112_060342.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.8998872637748718
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191111_052618.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.48966747522354126
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191113_062249_1.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9121178388595581
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055529_4.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.910538375377655
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191115_055756.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8947104215621948
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191115_053729.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.9350999593734741
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191018_055127.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.8906135559082031
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191114_062526_2.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.9095947742462158
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191113_055111_3.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.8959928750991821
+data/FFE/Nibea Albiflora - Fresh/IMG_20191113_060651_1.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.8979248404502869
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_072642.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.934783935546875
+data/FFE/Chanos Chanos - Fresh/IMG_20191003_064447.jpg,Chanos Chanos - Fresh,Chanos Chanos - Fresh,Fresh,Fresh,1,0,0.9167982935905457
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191115_055117.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9089470505714417
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191112_060714_4.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9452838897705078
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_074333_1.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.915289580821991
+data/FFE/Johnius Trachycephalus - Highly Fresh/IMG_20191014_071325.jpg,Johnius Trachycephalus - Highly Fresh,Johnius Trachycephalus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9118277430534363
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191115_062318_2.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.8757745027542114
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191001_065010.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.6543543934822083
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191114_055637.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9223745465278625
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_075938_3.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8872138857841492
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_080127.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8965060710906982
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191114_054215.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.9047501087188721
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191111_062228_1.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9084641337394714
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191115_054800.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8589036464691162
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191017_063948.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.9035289883613586
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_054109_1.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9307058453559875
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191112_055858_3.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9315083622932434
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191113_060130.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.8715807199478149
+data/FFE/Nibea Albiflora - Fresh/IMG_20191113_060443.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.863559901714325
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191114_062947_4.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.9123051762580872
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191114_063051_1.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.9057945013046265
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061239_2.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.6424003839492798
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_075351_5.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9189311265945435
+data/FFE/Johnius Trachycephalus - Not Fresh/IMG_20191018_060636.jpg,Johnius Trachycephalus - Not Fresh,Johnius Trachycephalus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9193613529205322
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_072736_4.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9311885237693787
+data/FFE/Eleutheronema Tetradactylum - Fresh/IMG_20191017_071230.jpg,Eleutheronema Tetradactylum - Fresh,Eleutheronema Tetradactylum - Fresh,Fresh,Fresh,1,0,0.8636782765388489
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191115_060213.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9117165207862854
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191015_062926.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9282580614089966
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191018_053937.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.8366870284080505
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_073128_2.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9079680442810059
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055431_4.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9006048440933228
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191111_062306_1.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9092837572097778
+data/FFE/Eleutheronema Tetradactylum - Highly Fresh/IMG_20191015_071835.jpg,Eleutheronema Tetradactylum - Highly Fresh,Eleutheronema Tetradactylum - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9062706828117371
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191113_053858.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.923637330532074
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191002_064751.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.5211415886878967
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191115_063518.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.9065234661102295
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191019_055445.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.8958504796028137
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191017_062033.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9188032150268555
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191015_063057.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9128830432891846
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_060928.jpg,Nibea Albiflora - Fresh,Nibea Albiflora -  Highly Fresh,Fresh,Highly Fresh,0,1,0.8881046175956726
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_080616.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8930556774139404
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191019_055647.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Fresh,1,1,0.41277098655700684
+data/FFE/Johnius Trachycephalus - Highly Fresh/IMG_20191015_065501.jpg,Johnius Trachycephalus - Highly Fresh,Johnius Trachycephalus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.7313507795333862
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20190930_072420.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9155008792877197
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191113_055039_2.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Not Fresh,1,1,0.40293100476264954
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055628_8.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.903346061706543
+data/FFE/Chanos Chanos - Fresh/IMG_20191003_064609.jpg,Chanos Chanos - Fresh,Chanos Chanos - Fresh,Fresh,Fresh,1,0,0.9002268314361572
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20190930_072214.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.7921615242958069
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191114_054057.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.7575697302818298
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191114_061728.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.8992523550987244
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191111_063024.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora - Fresh,Highly Fresh,Fresh,0,1,0.46082988381385803
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191112_054545_1.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.9064138531684875
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191112_063944_1.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Not Fresh,Fresh,Fresh,0,0,0.4689193069934845
+data/FFE/Chanos Chanos - Fresh/IMG_20191002_063507.jpg,Chanos Chanos - Fresh,Chanos Chanos - Fresh,Fresh,Fresh,1,0,0.8275877237319946
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_055940_3.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.2881292700767517
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191019_055432.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Fresh,Not Fresh,Fresh,0,1,0.39784687757492065
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191114_061342.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.9166027307510376
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191112_060241.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9238119721412659
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191019_060718.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.8909403681755066
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055129_1.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8345456123352051
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20190930_071159.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9048176407814026
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191112_055300_6.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.8619164824485779
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055628_1.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9054049849510193
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191115_060610.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.9226979613304138
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_054650_2.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9000363349914551
+data/FFE/Eleutheronema Tetradactylum - Highly Fresh/IMG_20191015_072052.jpg,Eleutheronema Tetradactylum - Highly Fresh,Eleutheronema Tetradactylum - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8100453615188599
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055612_2.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8966652154922485
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20190930_072128.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.7771815657615662
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_061234_3.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9113444685935974
+data/FFE/Johnius Trachycephalus - Highly Fresh/IMG_20191015_070256.jpg,Johnius Trachycephalus - Highly Fresh,Johnius Trachycephalus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.6786170601844788
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191114_061717.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.8904584050178528
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191115_063000.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Fresh,1,1,0.6357445120811462
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191018_055103.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.9086002111434937
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191112_062455.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.9034866690635681
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061537_4.jpg,Nibea Albiflora - Fresh,Nibea Albiflora -  Highly Fresh,Fresh,Highly Fresh,0,1,0.7729212641716003
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191114_055917_5.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9229299426078796
+data/FFE/Eleutheronema Tetradactylum - Highly Fresh/IMG_20191014_072150.jpg,Eleutheronema Tetradactylum - Highly Fresh,Eleutheronema Tetradactylum - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9018961191177368
+data/FFE/Eleutheronema Tetradactylum - Not Fresh/IMG_20191019_064244.jpg,Eleutheronema Tetradactylum - Not Fresh,Eleutheronema Tetradactylum - Not Fresh,Not Fresh,Not Fresh,1,0,0.8962518572807312
+data/FFE/Eleutheronema Tetradactylum - Not Fresh/IMG_20191019_064029.jpg,Eleutheronema Tetradactylum - Not Fresh,Eleutheronema Tetradactylum - Not Fresh,Not Fresh,Not Fresh,1,0,0.9049434661865234
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_075422_4.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8988595604896545
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_060919.jpg,Nibea Albiflora - Fresh,Nibea Albiflora -  Highly Fresh,Fresh,Highly Fresh,0,1,0.8097478747367859
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191115_062407.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.8855480551719666
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055053_2.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.6906804442405701
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191015_063042.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.903572678565979
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191015_063009.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9116359949111938
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191111_063523_2.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9156644344329834
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_061025_5.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9178745746612549
+data/FFE/Johnius Trachycephalus - Highly Fresh/IMG_20191015_065525.jpg,Johnius Trachycephalus - Highly Fresh,Johnius Trachycephalus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.6193660497665405
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191018_054309.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.9268995523452759
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191115_061432_2.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.9020752310752869
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191111_061841.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Fresh,Highly Fresh,Fresh,0,1,0.8080185651779175
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_054156_6.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8891689777374268
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191111_062249_2.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8979625105857849
+data/FFE/Eleutheronema Tetradactylum - Not Fresh/IMG_20191019_064258.jpg,Eleutheronema Tetradactylum - Not Fresh,Eleutheronema Tetradactylum - Not Fresh,Not Fresh,Not Fresh,1,0,0.824416995048523
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191017_064448.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.9054314494132996
+data/FFE/Eleutheronema Tetradactylum - Not Fresh/IMG_20191019_064052.jpg,Eleutheronema Tetradactylum - Not Fresh,Eleutheronema Tetradactylum - Not Fresh,Not Fresh,Not Fresh,1,0,0.9000468850135803
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191005_071958.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.9081739187240601
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191113_053709.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.882832944393158
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191014_070721.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9164295196533203
+data/FFE/Johnius Trachycephalus - Fresh/IMG_20191017_070222.jpg,Johnius Trachycephalus - Fresh,Johnius Trachycephalus - Fresh,Fresh,Fresh,1,0,0.9101012349128723
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191111_063413_2.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8802851438522339
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191001_064911.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9024381041526794
+data/FFE/Johnius Trachycephalus - Not Fresh/IMG_20191019_062311.jpg,Johnius Trachycephalus - Not Fresh,Johnius Trachycephalus - Not Fresh,Not Fresh,Not Fresh,1,0,0.904055118560791
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_080049.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9059024453163147
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191114_054451.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.9169883728027344
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191001_063002.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9332631826400757
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191115_054102.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9218172430992126
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191115_063507.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.9233992099761963
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191114_054148.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.6447346806526184
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_074946_3.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.903748095035553
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191019_055111.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Fresh,Not Fresh,Fresh,0,1,0.8467351794242859
+data/FFE/Johnius Trachycephalus - Highly Fresh/IMG_20191015_070705.jpg,Johnius Trachycephalus - Highly Fresh,Johnius Trachycephalus - Fresh,Highly Fresh,Fresh,0,1,0.5916270613670349
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191018_054052.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.8522523045539856
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191003_063142.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.9120073318481445
+data/FFE/Nibea Albiflora - Fresh/IMG_20191113_061136_2.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.9097471237182617
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191112_054654.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.9113077521324158
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_060856_2.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.7911975383758545
+data/FFE/Nibea Albiflora - Fresh/IMG_20191113_061004_2.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.9036959409713745
+data/FFE/Eleutheronema Tetradactylum - Fresh/IMG_20191016_071131.jpg,Eleutheronema Tetradactylum - Fresh,Eleutheronema Tetradactylum - Fresh,Fresh,Fresh,1,0,0.6479716897010803
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191014_065707.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8813290596008301
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191003_063851.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Not Fresh,Fresh,Fresh,0,0,0.4411603808403015
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20190930_070653.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9174541234970093
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191112_060648_2.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Highly Fresh,Fresh,Highly Fresh,0,1,0.8511695861816406
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191005_072703.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.8148138523101807
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191111_063526_1.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8998722434043884
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191113_053427_1.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.7842704057693481
+data/FFE/Johnius Trachycephalus - Highly Fresh/IMG_20191015_065259.jpg,Johnius Trachycephalus - Highly Fresh,Johnius Trachycephalus - Fresh,Highly Fresh,Fresh,0,1,0.5713380575180054
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191115_055543.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9098846912384033
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191113_061850_1.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9155352115631104
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191115_063132_2.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.6524448394775391
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_053826.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Highly Fresh,Fresh,Highly Fresh,0,1,0.9026128649711609
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191016_064113.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.9121783971786499
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191114_063629_4.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.936755895614624
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191004_064351.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9090448617935181
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191114_054950.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9094854593276978
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191114_053743.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.9225026369094849
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_05504_31.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9126220345497131
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191112_055126_3.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.6868616938591003
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191112_054937_2.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,0,0,0.7040488719940186
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_080819.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora - Fresh,Highly Fresh,Fresh,0,1,0.79317307472229
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_053448_2.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Highly Fresh,Fresh,Highly Fresh,0,1,0.6200528144836426
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055209_3.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.890149712562561
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191114_055231.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9234256148338318
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_074710.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9217290282249451
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_053405.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Fresh,Highly Fresh,Fresh,0,1,0.6171522736549377
+data/FFE/Chanos Chanos - Fresh/IMG_20191112_052940.jpg,Chanos Chanos - Fresh,Chanos Chanos - Fresh,Fresh,Fresh,1,0,0.8512353897094727
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_061359_2.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8379351496696472
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_061128_3.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.903599739074707
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_064253_2.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.8274847865104675
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191004_064406.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8468671441078186
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191005_070815.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.7723217010498047
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_074320_1.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9192748069763184
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055522_4.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9199163913726807
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055608_7.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9138438701629639
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191001_064808.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8858624696731567
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191112_060228.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.7442213296890259
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20190930_070621.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9048700928688049
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191111_063231.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8241433501243591
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191019_055014.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Fresh,Not Fresh,Fresh,0,1,0.9225937724113464
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_075511.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.921546459197998
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191015_063724.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8603439331054688
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191112_063453.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.8219255208969116
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055431_1.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Fresh,Highly Fresh,Fresh,0,1,0.7523499727249146
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191005_071013.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.884861946105957
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191113_054116_1jpg.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.9198925495147705
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_073853_6.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.895854651927948
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191111_052059.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9236487150192261
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20190930_071640.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Fresh,Highly Fresh,Fresh,0,1,0.8509561419487
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191113_055016g_1.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,0,0,0.7576719522476196
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191114_060422_2.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.834627628326416
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191113_053600.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.8647086024284363
+data/FFE/Chanos Chanos - Fresh/IMG_20191003_064744.jpg,Chanos Chanos - Fresh,Chanos Chanos - Fresh,Fresh,Fresh,1,0,0.769355833530426
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_054527_2.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9200734496116638
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061500_2.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.8887218236923218
+data/FFE/Chanos Chanos - Fresh/IMG_20191002_063151.jpg,Chanos Chanos - Fresh,Chanos Chanos - Fresh,Fresh,Fresh,1,0,0.5190197825431824
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191113_055313.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.8964948654174805
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191114_063938_2.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.8924652934074402
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191113_055636_2.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.8912107944488525
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191111_061759.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.7038545608520508
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191112_055232_5.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.8056173324584961
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20190930_071610.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Fresh,Highly Fresh,Fresh,0,1,0.903377115726471
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_074958_3.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9043210744857788
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191113_054741_2.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.9283756017684937
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191114_060236.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8744655251502991
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_075312_5.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.7215526700019836
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191115_055800.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.7875241637229919
+data/FFE/Johnius Trachycephalus - Highly Fresh/IMG_20191014_071448.jpg,Johnius Trachycephalus - Highly Fresh,Johnius Trachycephalus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9195384383201599
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191017_062725.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9338723421096802
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061809_1.jpg,Nibea Albiflora - Fresh,Nibea Albiflora -  Highly Fresh,Fresh,Highly Fresh,0,1,0.8893906474113464
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_073015.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9290103912353516
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191110_073128_4.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9213064908981323
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055912_4.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8449617624282837
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055538_1.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.905608594417572
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191016_063427.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9034690260887146
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191114_062715_1.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.9040619134902954
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20190930_070847.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9294783473014832
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191113_054542.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.9021580219268799
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191004_064600.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.85196453332901
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055112_4.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9157420992851257
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191115_053052.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.892942488193512
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191114_063444_4.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.5943349003791809
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055041_1.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8906035423278809
+data/FFE/Johnius Trachycephalus - Highly Fresh/IMG_20191014_071907.jpg,Johnius Trachycephalus - Highly Fresh,Johnius Trachycephalus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9428530335426331
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191112_063832_6.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.7047253847122192
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191114_061612_2.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.8842966556549072
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191112_063446.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.4571274220943451
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_075842.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9143034815788269
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_075141.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9071429967880249
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20190930_070806.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8928225636482239
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191115_061943.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.9228283762931824
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_080506.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8829736113548279
+data/FFE/Johnius Trachycephalus - Not Fresh/IMG_20191019_062817.jpg,Johnius Trachycephalus - Not Fresh,Johnius Trachycephalus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9202202558517456
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191005_072728.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Fresh,Not Fresh,Fresh,0,1,0.8679331541061401
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061437_2.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.8917668461799622
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191016_063314.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.7007511258125305
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191114_063344.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Fresh,Not Fresh,Not Fresh,0,0,0.46932458877563477
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191003_064025.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.8578435778617859
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191015_062539.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8924585580825806
+data/FFE/Eleutheronema Tetradactylum - Not Fresh/IMG_20191018_062148.jpg,Eleutheronema Tetradactylum - Not Fresh,Eleutheronema Tetradactylum - Not Fresh,Not Fresh,Not Fresh,1,0,0.5175207853317261
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055235_9.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9028601050376892
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191113_055553_2.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.8891716599464417
+data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191112_054812.jpg,Oreochromis Mossambicus - Fresh,Oreochromis Mossambicus - Fresh,Fresh,Fresh,1,0,0.9233349561691284
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191005_072223.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.9264068007469177
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191114_062112_2.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.922467827796936
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191014_064819.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.907195508480072
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191114_062904.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.9154897928237915
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191115_060625.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.90080326795578
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191111_061718.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.919506311416626
+data/FFE/Eleutheronema Tetradactylum - Not Fresh/IMG_20191019_063444.jpg,Eleutheronema Tetradactylum - Not Fresh,Eleutheronema Tetradactylum - Not Fresh,Not Fresh,Not Fresh,1,0,0.859870970249176
+data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_053926_1.jpg,Oreochromis Niloticus - Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.7810792326927185
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191110_081329.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9139925241470337
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_053952_4.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.9158627986907959
+data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061537_3.jpg,Nibea Albiflora - Fresh,Nibea Albiflora -  Highly Fresh,Fresh,Highly Fresh,0,1,0.7201204895973206
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191111_052827.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9128860235214233
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191016_064654.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.8227548599243164
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191115_053148.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.8384848237037659
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191114_062025.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.9181302189826965
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20191111_052328.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9192890524864197
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191115_061232.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Not Fresh,Not Fresh,Not Fresh,1,0,0.897290825843811
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055628_4.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.3582345247268677
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_055936_1.jpg,Nibea Albiflora -  Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,0,0,0.414661705493927
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_080739_3.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8289613723754883
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_074218_4.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9133226275444031
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191113_061613.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9158610105514526
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_080942_2.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9180559515953064
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191018_054146.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.8856627345085144
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_060722.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9134460687637329
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055235_1.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9018444418907166
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191112_062435.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Fresh,Fresh,Fresh,1,0,0.7926034927368164
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191115_053424.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.9216868281364441
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191014_070301.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9062531590461731
+data/FFE/Nibea Albiflora - Fresh/IMG_20191113_060850.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.9041013717651367
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20190930_070547.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9115059971809387
+data/FFE/Chanos Chanos - Highly Fresh/IMG_20190930_071413.jpg,Chanos Chanos - Highly Fresh,Chanos Chanos - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9074544906616211
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191015_064258.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.910802960395813
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191111_060155.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.7582550048828125
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191114_053931.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.8435844779014587
+data/FFE/Nibea Albiflora - Fresh/IMG_20191113_061050_2.jpg,Nibea Albiflora - Fresh,Nibea Albiflora - Fresh,Fresh,Fresh,1,0,0.8631209135055542
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191114_063643.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.9145256280899048
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_080843.jpg,Nibea Albiflora -  Highly Fresh,Nibea Albiflora -  Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9100715517997742
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191005_071626.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.4129316806793213
+data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191115_054800_1.jpg,Oreochromis Niloticus - Not Fresh,Oreochromis Niloticus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8964056372642517
+data/FFE/Rastrelliger Faughni - Fresh/IMG_20191016_064338.jpg,Rastrelliger Faughni - Fresh,Rastrelliger Faughni - Highly Fresh,Fresh,Highly Fresh,0,1,0.8998450040817261
+data/FFE/Johnius Trachycephalus - Not Fresh/IMG_20191018_060525.jpg,Johnius Trachycephalus - Not Fresh,Johnius Trachycephalus - Not Fresh,Not Fresh,Not Fresh,1,0,0.9321951866149902
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191115_062416.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.9136449098587036
+data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191110_055235_4.jpg,Oreochromis Mossambicus - Highly Fresh,Oreochromis Mossambicus - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8425632119178772
+data/FFE/Upeneus Moluccensis - Highly Fresh/IMG_20191110_073710.jpg,Upeneus Moluccensis - Highly Fresh,Upeneus Moluccensis - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9181256294250488
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191111_062252_2.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9060865044593811
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191115_062301.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.9169778823852539
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191017_062150.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.9084660410881042
+data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191115_060658.jpg,Rastrelliger Faughni - Not Fresh,Rastrelliger Faughni - Fresh,Not Fresh,Fresh,0,1,0.8341646790504456
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191005_072403.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.8039339780807495
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191111_061740.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9068747758865356
+data/FFE/Oreochromis Niloticus - Fresh/IMG_20191113_053941.jpg,Oreochromis Niloticus - Fresh,Oreochromis Niloticus - Fresh,Fresh,Fresh,1,0,0.8954012989997864
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191115_063809.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.9283635020256042
+data/FFE/Oreochromis Mossambicus - Not Fresh/IMG_20191114_060714_1.jpg,Oreochromis Mossambicus - Not Fresh,Oreochromis Mossambicus - Not Fresh,Not Fresh,Not Fresh,1,0,0.8852245211601257
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055554_9.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.8809879422187805
+data/FFE/Chanos Chanos - Not Fresh/IMG_20191005_071740.jpg,Chanos Chanos - Not Fresh,Chanos Chanos - Not Fresh,Not Fresh,Not Fresh,1,0,0.8808298707008362
+data/FFE/Nibea Albiflora - Not Fresh/IMG_20191114_063051.jpg,Nibea Albiflora - Not Fresh,Nibea Albiflora - Not Fresh,Not Fresh,Not Fresh,1,0,0.8908020257949829
+data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191114_063430_1.jpg,Upeneus Moluccensis - Not Fresh,Upeneus Moluccensis - Not Fresh,Not Fresh,Not Fresh,1,0,0.9255309700965881
+data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191015_063800.jpg,Rastrelliger Faughni - Highly Fresh,Rastrelliger Faughni - Highly Fresh,Highly Fresh,Highly Fresh,1,0,0.9014241695404053
+data/FFE/Upeneus Moluccensis - Fresh/IMG_20191016_063227.jpg,Upeneus Moluccensis - Fresh,Upeneus Moluccensis - Fresh,Fresh,Fresh,1,0,0.8720712661743164
+data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191111_063753_3.jpg,Nibea Albiflora -  Highly Fresh,Oreochromis Niloticus - Highly Fresh,Highly Fresh,Highly Fresh,0,0,0.41718146204948425
+data/FFE/Chanos Chanos - Fresh/IMG_20191002_063314.jpg,Chanos Chanos - Fresh,Chanos Chanos - Fresh,Fresh,Fresh,1,0,0.7808129191398621
+data/FFE/Johnius Trachycephalus - Fresh/IMG_20191016_070336.jpg,Johnius Trachycephalus - Fresh,Johnius Trachycephalus - Fresh,Fresh,Fresh,1,0,0.8954411149024963

@@ -1,0 +1,4 @@
+backbone,seed,best_val_class_acc,test_class_acc,test_class_precision,test_class_recall,test_class_f1,test_freshness_acc,test_freshness_mae,test_freshness_adjacent_errors,test_freshness_severe_errors
+swin_tiny_flat,42,87.93,86.33,87.16,86.41,86.18,33.37,0.8519,422,163
+swin_tiny_flat,123,88.72,88.5,88.39,88.0,88.01,21.87,0.9886,504,182
+swin_tiny_flat,2024,86.9,87.7,88.6,87.52,87.48,39.07,0.7267,432,103

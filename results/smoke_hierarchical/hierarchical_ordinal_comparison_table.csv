@@ -1,0 +1,5 @@
+Model,Accuracy (%)
+"ResNet50 [Prasetyo 2022, benchmark]",78.82
+"Swin-T + ExtraTrees + LGBM [Hoang 2025, SOTA]",85.99
+smoke_resnet18 24-class (ours),0.00
+smoke_resnet18 freshness-only (ours),100.00

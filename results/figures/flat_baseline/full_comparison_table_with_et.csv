@@ -1,0 +1,5 @@
+Model,Neural Acc (%),Hybrid ET Acc (%),Severe Errors
+"ResNet50 [Prasetyo 2022, benchmark]",78.82,—,—
+"Swin-T + ET + LGBM [Hoang 2025, SOTA]",85.99,85.99,—
+Flat Swin-Tiny 24-class CE [ours],87.51±1.10,88.38,149.3
+"Hierarchical Ordinal Swin-Tiny [ours, neural]",88.46±0.97,89.98,4.3

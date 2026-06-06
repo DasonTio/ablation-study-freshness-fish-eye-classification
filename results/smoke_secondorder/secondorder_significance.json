@@ -1,0 +1,181 @@
+{
+  "summary": [
+    {
+      "arm": "A_gap",
+      "n": 1,
+      "class_acc_mean": 0.0,
+      "class_acc_std": 0.0,
+      "freshness_acc_classderived_mean": 100.0,
+      "freshness_mae_classderived_mean": 0.0,
+      "severe_classderived_mean": 0.0
+    },
+    {
+      "arm": "B_raw_bilinear",
+      "n": 1,
+      "class_acc_mean": 10.0,
+      "class_acc_std": 0.0,
+      "freshness_acc_classderived_mean": 100.0,
+      "freshness_mae_classderived_mean": 0.0,
+      "severe_classderived_mean": 0.0
+    },
+    {
+      "arm": "C_gap_raw_bilinear",
+      "n": 1,
+      "class_acc_mean": 55.0,
+      "class_acc_std": 0.0,
+      "freshness_acc_classderived_mean": 80.0,
+      "freshness_mae_classderived_mean": 0.2,
+      "severe_classderived_mean": 0.0
+    },
+    {
+      "arm": "D_centered_cov",
+      "n": 1,
+      "class_acc_mean": 10.0,
+      "class_acc_std": 0.0,
+      "freshness_acc_classderived_mean": 100.0,
+      "freshness_mae_classderived_mean": 0.0,
+      "severe_classderived_mean": 0.0
+    }
+  ],
+  "paired_seed_tests": {
+    "B_raw_bilinear": {
+      "baseline_arm": "A_gap",
+      "candidate_arm": "B_raw_bilinear",
+      "n": 1,
+      "seeds": [
+        42
+      ],
+      "baseline_mean": 0.0,
+      "candidate_mean": 10.0,
+      "mean_delta_pp": 10.0,
+      "delta_ci95": [
+        10.0,
+        10.0
+      ],
+      "paired_t": null,
+      "p_value": null,
+      "verdict": "secondary_positive"
+    },
+    "C_gap_raw_bilinear": {
+      "baseline_arm": "A_gap",
+      "candidate_arm": "C_gap_raw_bilinear",
+      "n": 1,
+      "seeds": [
+        42
+      ],
+      "baseline_mean": 0.0,
+      "candidate_mean": 55.0,
+      "mean_delta_pp": 55.0,
+      "delta_ci95": [
+        55.0,
+        55.0
+      ],
+      "paired_t": null,
+      "p_value": null,
+      "verdict": "secondary_positive"
+    },
+    "D_centered_cov": {
+      "baseline_arm": "A_gap",
+      "candidate_arm": "D_centered_cov",
+      "n": 1,
+      "seeds": [
+        42
+      ],
+      "baseline_mean": 0.0,
+      "candidate_mean": 10.0,
+      "mean_delta_pp": 10.0,
+      "delta_ci95": [
+        10.0,
+        10.0
+      ],
+      "paired_t": null,
+      "p_value": null,
+      "verdict": "secondary_positive"
+    }
+  },
+  "pre_registered_success_rule": {
+    "primary": "mean(candidate)-mean(A_gap) >= +1.0pp and paired t-test p < 0.05",
+    "secondary": "positive mean delta without primary significance",
+    "kill": "mean delta <= 0"
+  },
+  "paired_prediction_tests": {
+    "B_raw_bilinear": {
+      "per_seed": [
+        {
+          "seed": 42,
+          "n": 20,
+          "mcnemar_class": {
+            "a_only": 0,
+            "b_only": 2,
+            "p_exact": 0.5
+          },
+          "mcnemar_nonsevere_classderived": {
+            "a_only": 0,
+            "b_only": 0,
+            "p_exact": 1.0
+          },
+          "baseline_qwk_classderived": null,
+          "candidate_qwk_classderived": null
+        }
+      ]
+    },
+    "C_gap_raw_bilinear": {
+      "per_seed": [
+        {
+          "seed": 42,
+          "n": 20,
+          "mcnemar_class": {
+            "a_only": 0,
+            "b_only": 11,
+            "p_exact": 0.000977
+          },
+          "mcnemar_nonsevere_classderived": {
+            "a_only": 0,
+            "b_only": 0,
+            "p_exact": 1.0
+          },
+          "baseline_qwk_classderived": null,
+          "candidate_qwk_classderived": 0.0
+        }
+      ]
+    },
+    "D_centered_cov": {
+      "per_seed": [
+        {
+          "seed": 42,
+          "n": 20,
+          "mcnemar_class": {
+            "a_only": 0,
+            "b_only": 2,
+            "p_exact": 0.5
+          },
+          "mcnemar_nonsevere_classderived": {
+            "a_only": 0,
+            "b_only": 0,
+            "p_exact": 1.0
+          },
+          "baseline_qwk_classderived": null,
+          "candidate_qwk_classderived": null
+        }
+      ]
+    }
+  },
+  "paper_verdict": {
+    "baseline_arm": "A_gap",
+    "candidate_arm": "C_gap_raw_bilinear",
+    "n": 1,
+    "seeds": [
+      42
+    ],
+    "baseline_mean": 0.0,
+    "candidate_mean": 55.0,
+    "mean_delta_pp": 55.0,
+    "delta_ci95": [
+      55.0,
+      55.0
+    ],
+    "paired_t": null,
+    "p_value": null,
+    "verdict": "secondary_positive"
+  }
+}

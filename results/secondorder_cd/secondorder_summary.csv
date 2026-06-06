@@ -1,0 +1,3 @@
+arm,pooling,n,class_acc_mean,class_acc_std,freshness_acc_classderived_mean,freshness_acc_classderived_std,freshness_mae_classderived_mean,severe_classderived_mean,run_hours_total
+C_gap_raw_bilinear,gap_raw_bilinear,5,85.94,2.21,86.48,2.13,0.1465,10.0,0.56
+D_centered_cov,centered_cov,5,85.8,1.69,86.21,1.81,0.1449,6.2,0.73

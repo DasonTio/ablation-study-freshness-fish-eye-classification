@@ -1,0 +1,37 @@
+dataset:
+  root: "./data/FFE"
+  image_size: 224
+  num_classes: 24
+  train_split: 0.60
+  val_split: 0.20
+  test_split: 0.20
+  random_seed: 42
+
+clahe:
+  clip_limit: 2.0
+  tile_grid_size: [8, 8]
+
+training:
+  batch_size: 64
+  epochs: 50
+  learning_rate: 1.0e-4
+  weight_decay: 1.0e-4
+  dropout: 0.4
+  patience: 10
+  scheduler: cosine
+
+models:
+  resnet50:
+    pretrained: true
+    freeze_epochs: 5
+  efficientnetv2s:
+    pretrained: "tf_efficientnetv2_s.in21k"
+    freeze_epochs: 5
+  convnext_small:
+    pretrained: "convnext_small.fb_in22k_ft_in1k"
+    freeze_epochs: 5
+
+paths:
+  checkpoints: "./results/checkpoints"
+  logs: "./results/logs"
+  figures: "./results/figures"

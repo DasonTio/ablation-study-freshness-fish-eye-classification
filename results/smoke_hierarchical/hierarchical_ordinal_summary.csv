@@ -1,0 +1,2 @@
+backbone,n,class_acc_mean,class_acc_std,freshness_acc_mean,freshness_mae_mean,best_seed,best_val_class_acc
+smoke_resnet18,1,0.0,0.0,100.0,0.0,42,0.0
