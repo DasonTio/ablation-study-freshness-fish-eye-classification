@@ -13,7 +13,8 @@ This document explains the figures and tables used in `paper.docx`.
 | Figure 5 | `results/figures/jutisi/figure2_clahe_ablation.png` | Compares no-CLAHE vs CLAHE across ResNet50, EfficientNetV2-S, and ConvNeXt-Small. | `results/multiseed_summary.csv` |
 | Figure 6 | `results/figures/jutisi/figure3_pooling_comparison.png` | Shows per-seed points and means for GAP, raw bilinear pooling, GAP+bilinear fusion, and centered covariance. | `results/secondorder_merged/secondorder_results.csv` |
 | Figure 7 | `results/figures/hierarchical_ordinal/hierarchical_ordinal_freshness_confusion_matrix.png` | Documents the ordinal freshness readout from the hierarchical/CORAL model after the accuracy-focused representation tests. | `results/figures/hierarchical_ordinal/hierarchical_ordinal_test_predictions.csv` |
-| Figure 8 | `results/figures/jutisi/figure8_stage_xai_3x3.png` | Provides a matched 3x3 Grad-CAM audit across the CLAHE model, second-order pooling candidate, and final GAP Swin-Tiny classifier. | `scripts/make_stage_xai_figure.py`, saved checkpoints |
+| Figure 8 | `results/figures/jutisi/figure8_xai_correct_3x3.png` | Correctly classified samples: 3x3 Grad-CAM (CLAHE / second-order / final GAP Swin-Tiny columns x three freshness rows), showing how each stage attends when it succeeds. | `scripts/make_split_xai_figures.py`, saved checkpoints |
+| Figure 9 | `results/figures/jutisi/figure9_xai_incorrect_3x3.png` | Misclassified samples: same 3x3 layout, annotated with true vs predicted freshness, showing failure attention and severe Not-Fresh/Highly-Fresh flips. | `scripts/make_split_xai_figures.py`, saved checkpoints |
 
 ## Tables
 
@@ -47,6 +48,6 @@ The figures and tables should be read as one evidence chain:
 4. **Table 3/Figure 5** test whether local contrast enhancement helps the measured global signal. It does not, so local contrast is rejected.
 5. **Table 4/Figure 6** test the next plausible explanation: higher-order texture. It also fails, so texture pooling is rejected.
 6. **Table 5/Figure 7** test whether label structure changes the conclusion. It does not improve accuracy significantly, but it gives an ordinal readout.
-7. **Table 6/Figure 8** position and audit the final result: the validated GAP Swin-Tiny number is compared with published FFE results, and Grad-CAM checks the rejected add-ons and final model over matched samples.
+7. **Table 6/Figures 8-9** position and audit the final result: the validated GAP Swin-Tiny number is compared with published FFE results, and Grad-CAM separately checks correct and incorrect predictions of the rejected add-ons and the final model over matched freshness samples.
 
 The paper's meaning is therefore not "we tried many things." The meaning is "GAP Swin-Tiny is the final model; global ocular statistics explain why it works; common alternatives were tested and rejected in a controlled sequence."

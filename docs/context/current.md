@@ -65,9 +65,10 @@ risky; IJIES=off-scope enterprise systems.)
 
 **Primary manuscript:** `paper.docx` — generated English-body JuTISI paper titled
 **"Global Ocular Statistics Validate GAP Swin-Tiny for Fish-Eye Freshness Classification"**
-with bilingual title/abstract, 6 native tables, 8 embedded figures, and 19 IEEE-style
+with bilingual title/abstract, 6 native tables, 9 embedded figures, and 19 IEEE-style
 references. Results now start with the final model table, then global signal, CLAHE,
-pooling, ordinal readout, prior-work context, and stage-wise 3x3 xAI. Supporting files:
+pooling, ordinal readout, prior-work context, and separated correct/incorrect 3x3 xAI
+panels (Figures 8-9, `scripts/make_split_xai_figures.py`). Supporting files:
 `references.bib`, `paper/research_design_logic.md`,
 `paper/figures_tables_documentation.md`. Builder: `scripts/build_jutisi_final_paper.py`;
 figure builders: `scripts/make_jutisi_figures.py`, `scripts/run_global_signal_analysis.py`,

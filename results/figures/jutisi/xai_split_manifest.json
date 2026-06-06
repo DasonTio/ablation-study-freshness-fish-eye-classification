@@ -1,0 +1,77 @@
+{
+  "clahe": {
+    "pool_accuracy": 76.2,
+    "correct": {
+      "Highly Fresh": "data/FFE/Rastrelliger Faughni - Highly Fresh/IMG_20191110_055549_3.jpg",
+      "Fresh": "data/FFE/Chanos Chanos - Fresh/IMG_20191113_052419.jpg",
+      "Not Fresh": "data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191114_055734.jpg"
+    },
+    "incorrect": {
+      "Highly Fresh": {
+        "path": "data/FFE/Chanos Chanos - Highly Fresh/IMG_20191001_063525.jpg",
+        "true": "Chanos Chanos - Highly Fresh",
+        "pred": "Chanos Chanos - Fresh"
+      },
+      "Fresh": {
+        "path": "data/FFE/Oreochromis Niloticus - Fresh/IMG_20191002_064354.jpg",
+        "true": "Oreochromis Niloticus - Fresh",
+        "pred": "Oreochromis Niloticus - Highly Fresh"
+      },
+      "Not Fresh": {
+        "path": "data/FFE/Rastrelliger Faughni - Not Fresh/IMG_20191114_061749.jpg",
+        "true": "Rastrelliger Faughni - Not Fresh",
+        "pred": "Rastrelliger Faughni - Highly Fresh"
+      }
+    }
+  },
+  "second_order": {
+    "pool_accuracy": 95.79,
+    "correct": {
+      "Highly Fresh": "data/FFE/Oreochromis Niloticus - Highly Fresh/IMG_20191111_054037_3.jpg",
+      "Fresh": "data/FFE/Oreochromis Niloticus - Fresh/IMG_20191112_053144.jpg",
+      "Not Fresh": "data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191004_064330.jpg"
+    },
+    "incorrect": {
+      "Highly Fresh": {
+        "path": "data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191111_063024.jpg",
+        "true": "Nibea Albiflora -  Highly Fresh",
+        "pred": "Nibea Albiflora - Fresh"
+      },
+      "Fresh": {
+        "path": "data/FFE/Nibea Albiflora - Fresh/IMG_20191112_061239_1.jpg",
+        "true": "Nibea Albiflora - Fresh",
+        "pred": "Nibea Albiflora - Not Fresh"
+      },
+      "Not Fresh": {
+        "path": "data/FFE/Upeneus Moluccensis - Not Fresh/IMG_20191019_055402.jpg",
+        "true": "Upeneus Moluccensis - Not Fresh",
+        "pred": "Upeneus Moluccensis - Fresh"
+      }
+    }
+  },
+  "final_gap": {
+    "pool_accuracy": 95.56,
+    "correct": {
+      "Highly Fresh": "data/FFE/Nibea Albiflora -  Highly Fresh/IMG_20191110_055940_4.jpg",
+      "Fresh": "data/FFE/Oreochromis Mossambicus - Fresh/IMG_20191113_055019_4.jpg",
+      "Not Fresh": "data/FFE/Nibea Albiflora - Not Fresh/IMG_20191114_062907.jpg"
+    },
+    "incorrect": {
+      "Highly Fresh": {
+        "path": "data/FFE/Oreochromis Mossambicus - Highly Fresh/IMG_20191111_055053_4.jpg",
+        "true": "Oreochromis Mossambicus - Highly Fresh",
+        "pred": "Oreochromis Mossambicus - Not Fresh"
+      },
+      "Fresh": {
+        "path": "data/FFE/Oreochromis Niloticus - Fresh/IMG_20191003_064015.jpg",
+        "true": "Oreochromis Niloticus - Fresh",
+        "pred": "Oreochromis Niloticus - Highly Fresh"
+      },
+      "Not Fresh": {
+        "path": "data/FFE/Oreochromis Niloticus - Not Fresh/IMG_20191114_055826_1.jpg",
+        "true": "Oreochromis Niloticus - Not Fresh",
+        "pred": "Oreochromis Niloticus - Highly Fresh"
+      }
+    }
+  }
+}
